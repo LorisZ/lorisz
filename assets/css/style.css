@@ -1194,6 +1194,8 @@ section .container {
 ul.tags li {
   display: inline-block;
   background: rgba(255, 255, 255, 0.15);
-  height: 34px;
-  padding: 5px;
+  height: 27px;
+  padding: 6px;
+  border-radius: 15px;
+  line-height: 14px;
 }

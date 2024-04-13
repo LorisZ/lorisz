@@ -7,6 +7,10 @@
 !/assets/vendor/bootstrap-icons/font/
 /assets/vendor/bootstrap-icons/font/*
 !/assets/vendor/bootstrap-icons/font/bootstrap-icons.css
+!/assets/vendor/bootstrap-icons/font/fonts
+/assets/vendor/bootstrap-icons/font/fonts/*
+!/assets/vendor/bootstrap-icons/font/fonts/bootstrap-icons.woff
+!/assets/vendor/bootstrap-icons/font/fonts/bootstrap-icons.woff2
 
 !/assets/vendor/bootstrap/
 /assets/vendor/bootstrap/*
@@ -24,6 +28,11 @@
 !/assets/vendor/boxicons/css
 /assets/vendor/boxicons/css/*
 !/assets/vendor/boxicons/css/boxicons.min.css
+!/assets/vendor/boxicons/fonts
+/assets/vendor/boxicons/fonts/*
+!/assets/vendor/boxicons/fonts/boxicons.ttf
+!/assets/vendor/boxicons/fonts/boxicons.woff
+!/assets/vendor/boxicons/fonts/boxicons.woff2
 
 !/assets/vendor/glightbox/
 /assets/vendor/glightbox/*
@@ -41,6 +50,9 @@
 !/assets/vendor/remixicon/fonts/
 /assets/vendor/remixicon/fonts/*
 !/assets/vendor/remixicon/fonts/remixicon.css
+!/assets/vendor/remixicon/fonts/remixicon.ttf
+!/assets/vendor/remixicon/fonts/remixicon.woff
+!/assets/vendor/remixicon/fonts/remixicon.woff2
 
 !/assets/vendor/swiper
 /assets/vendor/swiper/*

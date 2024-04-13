@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@srexi/purecounterjs": "srexi/purecounterjs",
+    "bootstrap": "v5.3.*",
+    "bootstrap-icons": "v1.11.*",
+    "boxicons": "^2.1.4",
+    "glightbox": "^3.3.0",
+    "isotope-layout": "^3.0.6",
+    "remixicon": "^4.2.0",
+    "swiper": "^11.1.0",
+    "waypoints": "^4.0.1"
+  }
+}

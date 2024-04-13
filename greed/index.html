@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Greed</title>
+	<style>
+		*{
+			-moz-box-sizing: border-box; 
+			-webkit-box-sizing: border-box; 
+			box-sizing: border-box;
+			font-size:14px;
+		}
+		br.clear{
+			display:block;
+			width:0;
+			height:0;
+			clear:both;
+		}
+		html{
+			background-color: #000;
+			color:#fff;
+			width:100%;
+			height:100%;
+			margin:0;
+			padding:20px;
+		}
+		body{
+			margin:0 auto;
+			padding:0;
+		}
+		main{
+			width: 1580px;
+			margin-bottom:10px;
+		}
+		main div{
+			text-align: center;
+			float:left;
+			width:20px;
+			height:20px;
+			
+			border:1px solid #222;
+		}
+		/*highlighted*/
+		main div.hl{
+			background-color: #444;
+			cursor: pointer;
+		}
+		#status{
+			float:right;
+		}
+	</style>
+	<script src="script.js">
+	</script>
+</head>
+<body>
+	<main>
+	</main>
+	<div id="label">
+		<div id="score">Score: 0 - 0%</div>
+		<div id="status"></div>
+	</div>
+</body>
+</html>
